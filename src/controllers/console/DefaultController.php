@@ -1,6 +1,6 @@
 <?php
 
-namespace {{vendor}}\{{package}}\controllers\console;
+namespace alperenbugaz\oms\controllers\console;
 
 use portalium\console\Controller as ConsoleController;
 
